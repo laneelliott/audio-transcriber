@@ -1,0 +1,20 @@
+{
+  "name": "audio-transcriber",
+  "version": "1.0.0",
+  "description": "Takes audio files, uses Google to transcribe them and then parses the objects into txt files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laneelliott/audio-transcriber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laneelliott/audio-transcriber/issues"
+  },
+  "homepage": "https://github.com/laneelliott/audio-transcriber#readme"
+}
