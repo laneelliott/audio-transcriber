@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/laneelliott/audio-transcriber/issues"
   },
-  "homepage": "https://github.com/laneelliott/audio-transcriber#readme"
+  "homepage": "https://github.com/laneelliott/audio-transcriber#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
 }
